@@ -119,6 +119,9 @@ dmypy.json
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+#ignore database
+*.sqlite
+
 # IPython
 profile_default/
 ipython_config.py
