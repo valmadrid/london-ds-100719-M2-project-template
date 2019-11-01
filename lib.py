@@ -12,7 +12,7 @@ class WeatherGetter():
         self.date = date + "T12:00:00"  #set default time to 12nn
         self.lat = 52.52 #Berlin
         self.long = 13.405 #Berlin
-        self.key = "dc40686a80b16d006b8747f0706e7215" #add key here
+        self.key = "" #add key here
         self.link = f"https://api.darksky.net/forecast/{self.key}/{self.lat},{self.long},{self.date}?exclude=currently,hourly,flags"
         self.weather = self.getweathersummary()
         
