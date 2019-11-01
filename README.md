@@ -18,9 +18,9 @@ Modelled on a simple [Kanban](https://www.atlassian.com/agile/kanban) process wo
 ||||6|
 ||||7|
 ||||8|
-|9||||
-|10||||
-|11||||
+||||9|
+||10|||
+||11|||
 |12||||
 |13||||
 |14||||
